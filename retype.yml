@@ -7,11 +7,12 @@ lang: zh-CN
 
 start:
   # Uncomment the next line to try Retype Pro features
-  pro: true
+  # pro: true
 
 branding:
   title: Azure Novle
   label: Novle
+  logoAlign: right
 
 links:
 - text: GitHub主页
