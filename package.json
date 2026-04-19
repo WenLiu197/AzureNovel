@@ -2,7 +2,7 @@
   "name": "azure-novel",
   "private": true,
   "scripts": {
-    "build": "retype build"
+    "build": "npx retype build"
   },
   "dependencies": {
     "retype": "latest"
