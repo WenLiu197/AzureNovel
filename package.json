@@ -1,10 +1,10 @@
 {
-  "name": "azure-novel",
+  "name": "azurenovel",
   "private": true,
   "scripts": {
-    "build": "npx retype build"
+    "build": "retype build"
   },
   "dependencies": {
-    "retype": "latest"
+    "retypeapp": "latest"
   }
 }
