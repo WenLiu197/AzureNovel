@@ -4,7 +4,7 @@
   "scripts": {
     "build": "retype build"
   },
-  "devDependencies": {
-    "retypeapp": "latest"
+  "dependencies": {
+    "retype": "latest"
   }
 }
